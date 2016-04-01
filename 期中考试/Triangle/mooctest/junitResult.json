@@ -1,0 +1,1 @@
+{"classes":[{"testCases":[{"success":"1","methodName":"testGetBorders"},{"success":"1","methodName":"testGetType"}],"className":"TestTriangle"}],"totalNum":2,"proName":"Triangle","successNum":2,"failureNum":0}

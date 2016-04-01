@@ -1,0 +1,1 @@
+{"classes":[{"testCases":[{"success":"1","methodName":"testInsertionSort"},{"success":"1","methodName":"testQuickSort"}],"className":"TestSorting"}],"totalNum":2,"proName":"Sorting","successNum":2,"failureNum":0}
